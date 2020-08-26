@@ -1,0 +1,37 @@
+body {
+  background-color: black;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+p {
+  margin: 0;
+  padding: 10px;
+}
+
+.box {
+  width: 350px;
+  background-color: rgb(221, 221, 221);
+  margin-bottom: 40px;
+}
+
+.redborder {
+  border-color: rgb(232, 89, 77);
+  border-width: 1px;
+  border-style: solid;
+}
+
+.border {
+  border-width: 10px;
+  border-style: solid;
+}
+
+.orange {
+  border-color: rgb(255, 165, 48);
+  
+}
+
+.blue {
+
+  border-color: rgb(48, 141, 192);
+}
