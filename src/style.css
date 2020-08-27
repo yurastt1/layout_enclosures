@@ -1,38 +1,31 @@
 body {
   background-color: black;
-  margin-left: 20px;
-  margin-top: 20px;
   box-sizing: border-box;
-}
-
-p {
-  margin: 0;
-  padding: 10px;
+  margin: 20px;
 }
 
 .box {
   width: 350px;
-  background-color: rgb(221, 221, 221);
   margin-bottom: 40px;
 }
 
 .redborder {
-  border-color: rgb(232, 89, 77);
-  border-width: 1px;
-  border-style: solid;
+  padding: 10px;
+  border: 1px solid rgb(232, 89, 77);
 }
 
-.border {
-  border-width: 10px;
-  border-style: solid;
-}
-
-.orange {
-  border-color: #ffa500;
-  
+.centerColor {
+  background-color: rgb(221, 221, 221);
 }
 
 .blue {
+  background-color: rgb(48, 141, 192);
+}
 
-  border-color: rgb(48, 141, 192);
+.yellow {
+  background-color: #ffa500;
+}
+
+p {
+  margin: 0;
 }
