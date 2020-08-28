@@ -1,6 +1,9 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-color: black;
-  box-sizing: border-box;
   margin: 20px;
 }
 
